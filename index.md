@@ -25,7 +25,7 @@ _What newspapers?_
 - Oceania 
 
 
-### Tweets analyisi
+### Tweets analysis
 
 - Bulleted
 - List
